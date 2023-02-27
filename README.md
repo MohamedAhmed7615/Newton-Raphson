@@ -1,1 +1,1 @@
-# Newton-Raphson
+This code only solves polynomial for now. For example, if you want to solve x^4-x^3=2 you must enter it as follows   1*x^4+(-1)*x^3+(-2)*x^0  negative numbers must be inside a bracket in order for the code to function correctly whether they are a coefficient or a power. The code can also handle numbers like 12.343443 with no problem no problem.
